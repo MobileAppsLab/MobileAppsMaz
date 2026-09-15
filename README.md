@@ -1,5 +1,3 @@
-# MobilApps
+# MobilApps v2
 
-Simple mobile-friendly everyday tools.
-
-Current tools: Tip Calculator and Temperature Converter.
+Tip Calculator, Temperature Converter, and Mazatlan Life.
